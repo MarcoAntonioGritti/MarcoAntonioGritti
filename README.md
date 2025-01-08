@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Marco Antonio Gritti Pazza
 
-Sou um desenvolvedor apaixonado por tecnologia, sempre buscando novas formas de aprender e evoluir. Estou em constante aperfeiçoamento, explorando ideias inovadoras e aprimorando minhas habilidades.
+Sou um estudante da programação, sempre buscando novas formas de aprender e evoluir. Estou em constante aperfeiçoamento, explorando ideias inovadoras e aprimorando minhas habilidades.
 
 <a href="https://www.linkedin.com/in/marco-antonio-gritti-pazza-091938232/"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
 &nbsp;&nbsp;&nbsp; <!-- Espaço entre os ícones -->
